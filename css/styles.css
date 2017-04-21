@@ -47,6 +47,11 @@ margin-right: 30px;
   color: #D700AD;
 }
 
+.job-title {
+  font-weight: bold;
+  color: #D700AD;
+}
+
 .font-color {
   color: #00E0FF;
 }

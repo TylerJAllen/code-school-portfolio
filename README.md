@@ -1,8 +1,8 @@
 # _Portfolio_
 
-#### _Independent Project for Epicodus, {04/21/2017}_
+#### _Independent Project for Epicodus, 04/21/2017_
 
-#### By _**{Tyler Allen}**_
+#### By _**Tyler Allen**_
 
 ## Description
 
