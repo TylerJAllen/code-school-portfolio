@@ -16,7 +16,7 @@ body {
 }
 
 #row-style {
-margin-left: 30px;
+margin-left: 50px;
 margin-right: 30px;
 }
 
@@ -39,5 +39,10 @@ margin-right: 30px;
   top: 0;
   padding-right: 20px;
   padding-left: 10px;
-  color: #ffffff;
+  color: #FFFFFF;
+}
+
+.link-styles {
+  color: #00E0FF;
+
 }
