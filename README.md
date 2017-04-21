@@ -1,12 +1,12 @@
-# _{Portfolio}_
+# _Portfolio_
 
-#### _{Independent Project for Epicodus}, {04/21/2017}_
+#### _Independent Project for Epicodus, {04/21/2017}_
 
 #### By _**{Tyler Allen}**_
 
 ## Description
 
-_{This is my personal profile that includes my github projects, education background, work experience, and information about me.}_
+_This is my personal profile that includes my github projects, education background, work experience, and information about me._
 
 ## Setup/Installation Requirements
 
@@ -15,20 +15,20 @@ _{This is my personal profile that includes my github projects, education backgr
 
 ## Known Bugs
 
-_{No known bugs.}_
+_No known bugs._
 
 ## Support and contact details
 
-_{For any issues or concerns, please email me by clicking the "Email Me" link at the bottom of my portfolio.}_
+_For any issues or concerns, please email me by clicking the "Email Me" link at the bottom of my portfolio._
 
 ## Technologies Used
 
-_{HTML
+_HTML
   CSS
-  Git}_
+  Git_
 
 ### License
 
-*{This software is licensed under the GPL license.}*
+*This software is licensed under the GPL license.*
 
-Copyright (c) 2017 **_{Tyler Allen}_**
+Copyright (c) 2017 **_Tyler Allen_**
