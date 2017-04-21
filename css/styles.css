@@ -7,8 +7,9 @@ body {
   height: 300px;
   width: 100%;
   min-width: 1070px;
+  border: 1px solid #ffffff;
   padding-top: 95px;
-  border-style: none;
+  /*border-style: none;*/
 }
 
 .headerbox h1{
@@ -22,34 +23,46 @@ body {
   height: 800px;
   width: 100%;
   min-width: 1200px;
-  display: block;
-  /*border: 1px solid #ffffff;*/
+  d/*isplay: block;*/
+  border: 1px solid #ffffff;
   margin-top: 50px;
-  /*margin-left: 50px;*/
-  /*margin-right: 50px;*/
+  /*margin-left: 20px;*/
+  margin-right: 50px;
   margin-bottom: 50x;
 }
 
+#row-styles {
+  width: 100%;
+
+}
+
 .column-styles {
-  margin-left: 40px;
+  /*margin-left: 40px;*/
+  border: 1px solid #ffffff;
 }
 
 .outer {
-    top: 0;
-    right: 0;
-    z-index: 200;
-    /*width: 320px;*/
-    height: 700px;
+  top: 0;
+  right: 0;
+  z-index: 200;
+  width: 320px;
+  height: 700px;
 }
 
 .middle {
-    max-width: 300px;
+  max-width: 300px;
 }
 
 .inner {
-    overflow: auto;
-    position: absolute;
-    bottom: 0;
-    top: 0;
-    color: #ffffff;
+  overflow: auto;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  padding-right: 20px;
+  padding-left: 10px;
+  color: #ffffff;
+}
+
+.list-styles {
+  text-align: justify;
 }
